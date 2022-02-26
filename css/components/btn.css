@@ -1,0 +1,15 @@
+.btn{
+        background-color: #FFB88F;
+        color: white;
+        padding: 15px 20px;
+        border-radius: 4px;
+        transition: 0.3s;
+        font-family: "Roboto", sans-serif;;
+}
+
+.btn:hover{
+        background-color: darkgrey;
+        color: white;
+        padding: 15px 20px;
+        border-radius: 4px;
+}
